@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohjupielae.mailbait.info/sitemap.xml
